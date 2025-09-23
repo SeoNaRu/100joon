@@ -5,8 +5,6 @@
 ### 1. 입력/출력
 
 - Python: `sys.stdin.readline()` 사용
-- C++: `ios_base::sync_with_stdio(false); cin.tie(NULL);` 사용
-- Java: `BufferedReader`, `BufferedWriter` 사용
 
 ### 2. 자주 사용하는 자료구조
 

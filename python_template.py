@@ -9,7 +9,7 @@ import sys
 input = sys.stdin.readline
 
 def solve():
-    # 여기에 문제 풀이 로직을 작성하세요
+    
     pass
 
 if __name__ == "__main__":
