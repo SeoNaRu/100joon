@@ -8,7 +8,6 @@ T, P = map(int, input().split())
 
 for size_count in size_list:
     bundles = (size_count + T - 1) // T  # 올림 계산
-    print(f"필요한 묶음: {bundles}")
     total_bundles += bundles
 
 # 몫 구하기
@@ -17,5 +16,5 @@ quotient = N // P
 remainder = N % P  
 
 print(total_bundles)
-print(f"{quotient} {remainder}")
+print(f"{quotient} {remainder}") 
 
